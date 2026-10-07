@@ -24,12 +24,12 @@ content="都市綠洲, 台中景點, 綠川水岸, 綠空廊道">
 
 <h2>報導目錄</h2>
 <ul>
-<li><a herf="#history">綠川及綠空鐵道歷史介紹</a></li> 
-<li><a herf="#stores">景點特色及沿途商家</a></li>
-<li><a herf="#compare"> 景點比較表</a></li> 
-<li><a herf="#photo">綠川水岸景觀步道照片</a></li>
-<li><a herf="#movie">影音報導</a></li>
-<li><a herf="#sources">資料來源</a></li>
+<li><a href="#history">綠川及綠空鐵道歷史介紹</a></li> 
+<li><a href="#stores">景點特色及沿途商家</a></li>
+<li><a href="#compare"> 景點比較表</a></li> 
+<li><a href="#photo">綠川水岸景觀步道照片</a></li>
+<li><a href="#movie">影音報導</a></li>
+<li><a href="#sources">資料來源</a></li>
 </ul>
 <hr>
 
