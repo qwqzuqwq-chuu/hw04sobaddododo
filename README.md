@@ -108,7 +108,7 @@ content="都市綠洲, 台中景點, 綠川水岸, 綠空廊道">
  <section id="movie">
                 <h2>五、影音報導</h2>
                 <p>透過下方影片認識綠川水岸景觀步道，再比較影片畫面與本文介紹的景點。</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DVDyhhwIjLE?si=WYmi0zopwDc_6ekl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DaGrAp8Ha2o?si=AQOHOFWoYp5bhrBB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p>
                     若播放器無法播放，請
                     <a href="https://youtu.be/DVDyhhwIjLE?si=3q3R84Tp_LcCoFCY" target="_blank" rel="noopener noreferrer">在 YouTube 觀看綠川水岸景觀步道介紹影片（另開分頁）</a>。
