@@ -127,10 +127,10 @@ content="都市綠洲, 台中景點, 綠川水岸, 綠空廊道">
         </article>
     </main>
 
-    <hr>
-    <footer>
-        <p>第四次 HTML 作業｜綠川水岸和綠空廊道報導</p>
-        <p><a href="#top">回到頁首</a></p>
-    </footer>
+<hr>
+<footer>
+<p>第四次 HTML 作業｜綠川水岸和綠空廊道報導</p>
+<p><a href="#top">回到頁首</a></p>
+</footer>
 </body>
 </html>
