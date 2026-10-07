@@ -35,14 +35,14 @@ content="都市綠洲, 台中景點, 綠川水岸, 綠空廊道">
 
  <main>
         <article aria-label="綠川水岸和綠空廊道歷史">
-            <section id="history">
+<section id="history">
 <h2>一、綠川及綠空鐵道歷史介紹</h2>
 <p>綠川水岸在日治時期曾扮演水文運輸的重要角色，並在歷經多年的都市發展與環境污染後，透過市府推動的水環境改善工程成功轉型，
     在當代休閒產業中被定位為兼具親水空間、環境教育與生態導覽的市中心親水休閒廊帶；
     另一方面，綠空廊道的前身則是縱貫鐵路舊山線的地面鐵道，隨著鐵路高架化後透過空間再造計畫，
     成功轉型為結合休閒步行、自行車騎乘、公共藝術展演與市民社交的線性綠色休閒空間。
 </p>
-  </section>
+</section>
 
 <section id="stores">
 <h2>二、景點特色及沿途商家</h2>
@@ -59,8 +59,8 @@ content="都市綠洲, 台中景點, 綠川水岸, 綠空廊道">
                     <li>東協廣場</li>
                     <li>酷庫古著</li>
                 </ol>
-            </section>
- <section id="compare">
+</section>
+<section id="compare">
 <h2>三、景點比較表</h2>
    <table border="1">
                     <caption>綠川水岸到綠空鐵道的景點歷史與特色</caption>
@@ -114,7 +114,7 @@ content="都市綠洲, 台中景點, 綠川水岸, 綠空廊道">
                     <a href="https://youtu.be/DVDyhhwIjLE?si=3q3R84Tp_LcCoFCY" target="_blank" rel="noopener noreferrer">在 YouTube 觀看綠川水岸景觀步道介紹影片（另開分頁）</a>。
                 </p>
                 <p><small>影片為外部作者發布的歷史介紹，現場狀況請以最新官方資訊為準。</small></p>
-            </section>
+</section>
 <section id="sources">
                 <h2>六、資料來源</h2>
                 <p>本報導依下列資料整理。</p>
