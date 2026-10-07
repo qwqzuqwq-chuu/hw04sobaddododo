@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>綠川水岸與綠空廊道:懷舊呼吸一日遊</title>
 <meta name="description"
 content="台中景點介紹網站，內容包含綠川水岸、綠空廊道、景點特色、照片與影片報導。">
 <meta name="keywords"
@@ -45,7 +44,7 @@ content="都市綠洲, 台中景點, 綠川水岸, 綠空廊道">
 </p>
   </section>
 
-            <section id="stores">
+<section id="stores">
 <h2>二、景點特色及沿途商家</h2>
      <h3>綠川水岸與綠空廊道特色</h3>
 <ul>
